@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu+Condensed&display=swap');
+@import "tailwindcss";
+ 
+*{
+  font-family: Outfit;
+} 
+.placeholder-color{
+ color: white; 
+ font-weight: 300;
+} 
